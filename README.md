@@ -31,3 +31,4 @@ Día 7 – Observabilidad y Rancher
   • Revisar eventos del cluster.
   • Ver detalles con kubectl describe.
   • Abrir Rancher y revisar el estado de los Deployments.
+  
